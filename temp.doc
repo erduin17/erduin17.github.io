@@ -1,0 +1,11 @@
+<li class="nav-item">
+  <a class="nav-link js-scroll-trigger" href="#blank">blank</a>
+</li>
+
+
+<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="blank">
+  <div class="w-100">
+    <h2 class="mb-5">blank</h2>
+    <p>Filler text.</p>
+  </div>
+</section>
